@@ -74,6 +74,7 @@ This project is licensed under the [MIT License](LICENSE).
 - Add parameters for methods(currently set to post by default).
 - Support repository and provider generation.
 - Support conditional generation
+- Run wire gen
 
 ---
 

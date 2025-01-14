@@ -47,13 +47,11 @@ This CLI tool will:
 - **Generate new files**:
   - `usecases/name.go`
   - `usecases/name_tests.go`
-  - `usecases/errors.go`
-  - `rest/codes.go`
   - `rest/name.go`
 - **Create or update existing files**:
-
   - `entrypoints/module.go`
-
+  - `usecases/errors.go`
+  - `rest/codes.go`
 - **Update existing files** (assumes they exist):
   - `wire.go`
   - `containers.go`

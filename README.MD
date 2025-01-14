@@ -1,7 +1,3 @@
-Here's a `README.md` tailored to your requirements:
-
----
-
 # Go Module Generator
 
 CLI tool to simplify the generation of Go project files.
